@@ -3,4 +3,7 @@
 using namespace std;
 
 class pelajar;
-class manusia
+class manusia {
+public:
+	void showNilaiPelajar(pelajar&);
+};
