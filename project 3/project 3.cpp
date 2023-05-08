@@ -1,4 +1,6 @@
-#include <isotream>
+#include <iostream>
 using namespace std;
 
-class siswa
+class siswa;
+
+class orang{};
