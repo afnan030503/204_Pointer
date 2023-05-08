@@ -17,4 +17,5 @@ int main()
 {
 	mahasiswa mhs;
 	setNama(mhs, "joko kumat");
+	cout << endl;
 }
